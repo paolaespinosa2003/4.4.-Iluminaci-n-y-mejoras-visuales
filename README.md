@@ -1,2 +1,3 @@
-# Unity Levels Project
-Proyecto para niveles infinitos en Unity.
+# 4.4. Iluminación y mejoras visuales
+La configuración desarrollada permite cambiar el color de fondo. 
+La configuración desarrollada permite cambiar el color del personaje. 
